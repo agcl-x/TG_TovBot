@@ -1,0 +1,14 @@
+{
+    "pathToDatabase": "C:\\Users\\rh\\Desktop\\TG_Tov_Bot\\database.db",
+    "botToken": "7645512710:AAE28JiqpzQTky_M-S6briMdxT-R55nXDes",
+    "channelID": "-1002897690781",
+    "LastSendedIndex": 33,
+    "adminIDs": [
+        1128842279
+    ],
+    "fromHour": 10,
+    "toHour": 18,
+    "timeToSleep": 30,
+    "1CUser": "",
+    "1CPassword": ""
+}
